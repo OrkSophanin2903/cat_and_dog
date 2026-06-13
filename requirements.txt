@@ -1,0 +1,6 @@
+streamlit
+streamlit-webrtc
+av
+tensorflow-cpu
+numpy
+Pillow
