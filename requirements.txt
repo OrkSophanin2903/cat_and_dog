@@ -1,6 +1,6 @@
 streamlit
 streamlit-webrtc
 av
-tensorflow-cpu
+tensorflow
 numpy
 Pillow
